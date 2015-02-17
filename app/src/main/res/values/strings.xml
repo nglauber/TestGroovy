@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestGroovy</string>
+
+    <string name="action_otto">Otto</string>
+    <string name="title_activity_otto">OttoActivity</string>
+    <string name="send_otto_message">Enviar mensagem</string>
+</resources>
